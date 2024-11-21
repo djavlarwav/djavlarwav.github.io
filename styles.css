@@ -107,8 +107,7 @@ hr {
 }
 
 .bio-box {
-  margin-top: 50px;
-;
+
 }
 
 .bio-box img{
@@ -334,8 +333,8 @@ hr {
 
       .contact_text{
         text-align: center;
-        margin-left: 500px;
-        margin-right: 500px;
+        margin-left: 700px;
+        margin-right: 700px;
         margin-bottom: 50px;
         border-radius: 20px;
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -535,8 +534,9 @@ hr {
 }
 
 .text-ha {
-  align-items: center;
-  padding: 100px;
+  margin-top: 250px;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 
 
@@ -572,6 +572,8 @@ hr {
 
   .bio-box {
     align-self: auto;
+
+
   }
   .text-ha {
     padding: 30px;
@@ -788,7 +790,11 @@ hr {
     }
 
     .contact_text {
-      margin: 20px;
+      margin-left: 30px;
+      margin-right: 30px;
+      margin-bottom: 0px;
+      margin-top: 0px;
+
       font-size: 12px;
       }
 
